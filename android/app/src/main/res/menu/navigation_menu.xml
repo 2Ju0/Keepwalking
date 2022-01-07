@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:layout_width="146dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="372dp"
+        android:icon="@drawable/btn_logout" />
+
+    <item
+        android:id="@+id/withdraw"
+        android:title="withdraw"
+        android:layout_width="145dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="372dp"
+        android:icon="@drawable/btn_withdraw"/>
+
+
+</menu>

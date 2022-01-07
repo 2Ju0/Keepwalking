@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="progressBarCircle" type="id" />
+    <item name="textViewTime" type="id" />
+    <item name="imageViewReset" type="id" />
+    <item name="imageViewStartStop" type="id" />
+    <item name="imageViewShare" type="id" />
+    <item name="imageView3" type="id" />
+    <item name="step_sensor" type="id" />
+</resources>
