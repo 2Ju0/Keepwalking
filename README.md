@@ -76,7 +76,6 @@
 |<div align = "center"><img src="https://avatars.githubusercontent.com/u/59702552?v=4" width = 150></div>|<div align = "center"><img align = "center" src="https://avatars.githubusercontent.com/u/67141218?v=4" width=150></div>|
 | :--------: | :--------: |
 | 문혜림 <br>[@moo-nerim](https://github.com/moo-nerim)| 이주영 <br>[@JuYeong-Lee](https://github.com/JuYeong-Lee)|
-|DL model 개발|DL model 개발|
 
 <br></br>
 
