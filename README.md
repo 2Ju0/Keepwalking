@@ -77,8 +77,6 @@
 | :--------: | :--------: |
 | 문혜림 <br>[@moo-nerim](https://github.com/moo-nerim)| 이주영 <br>[@JuYeong-Lee](https://github.com/JuYeong-Lee)|
 |DL model 개발|DL model 개발|
-|애플리케이션 기능 메인 개발|애플리케이션 기능 서브 개발|
-|데이터수집 및 서버연결 서브 개발|데이터수집 및 서버연결 메인 개발|
 
 <br></br>
 
